@@ -39,10 +39,12 @@ pip install keras
 
 https://www.dropbox.com/s/cp2sxexmo2t9b3r/Entrenamiento.jpg?dl=0
 https://www.dropbox.com/s/3b38w1au0i7iaot/PorcentajePresicion.jpg?dl=0
+![Aquí la descripción de la imagen por si no carga](https://github.com/RubenABAD25/CorpusImageRNNARubenAb/blob/master/barras_horizontal.png)
 
-
-### Doin to Test end-to-end 🔩
+### Doing to Test end-to-end 🔩
 https://www.dropbox.com/s/k0178ihzufzgwjk/Resultado.jpg?dl=0
+![Aquí la descripción de la imagen por si no carga](https://github.com/RubenABAD25/CorpusImageRNNARubenAb/blob/master/1380.png)
+![Aquí la descripción de la imagen por si no carga](https://github.com/RubenABAD25/CorpusImageRNNARubenAb/blob/master/barras_horizontal.png)
 
 ## Deployment 📦
 
