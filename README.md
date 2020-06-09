@@ -43,13 +43,16 @@ https://www.dropbox.com/s/3b38w1au0i7iaot/PorcentajePresicion.jpg?dl=0
 
 ### Doing to Test end-to-end 🔩
 * [Doing to test with Image is]-![Aquí la descripción de la imagen por si no carga](https://github.com/RubenABAD25/CorpusImageRNNARubenAb/blob/master/1380.png)
+* [Histogram picture]
 ![Aquí la descripción de la imagen por si no carga](https://github.com/RubenABAD25/CorpusImageRNNARubenAb/blob/master/barras_horizontal.png)
 
 ## Deployment 📦
 
 In this here to load to pdf of my jupyter-notebook.
-https://1drv.ms/b/s!AlKjyPe5xQHpkusCSIU6UvaU2u3fPA?e=DjFXOu
-
+* [View to pdf]-Python is an easy to learn, powerful programming language
+https://github.com/RubenABAD25/CorpusImageRNNARubenAb/blob/master/Integrador%20IntercilodeIA2RA.pdf
+* [Download notebook ]-Developed in python
+https://github.com/RubenABAD25/CorpusImageRNNARubenAb/blob/master/InregradorCorpusImagRA.ipynb
 ## Build with 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
